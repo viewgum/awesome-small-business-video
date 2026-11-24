@@ -47,7 +47,7 @@
       "url": "https://incompetech.com/music/royalty-free/licenses/",
       "publisher": "Incompetech",
       "read": "2026-11-23",
-      "quote": "For projects where attribution is not wanted or is impossible (radio/TV ads, corporate presentations, on-hold music, etc.)."
+      "quote": "For projects where attribution is not wanted or is impossible (radio/TV ads, corporate presentations, on-hold music, etc.). Select titles, fill out your info, download the PDF, pay with PayPal."
     },
     {
       "url": "https://freemusicarchive.org/faq",
@@ -98,10 +98,10 @@
       "quote": "That’s why there’s a free version of DaVinci Resolve"
     },
     {
-      "url": "https://edits.com/",
+      "url": "https://edits.instagram.com/",
       "publisher": "Instagram",
       "read": "2026-11-23",
-      "quote": "Edits by Instagram: A Video Creation App for Easy Editing & Sharing"
+      "quote": "Edits is the new video creation app by Instagram that helps creators make great videos on their phones."
     },
     {
       "url": "https://www.capcut.com/clause/terms-of-service",
@@ -125,7 +125,12 @@
       "url": "https://coverr.co/license",
       "publisher": "Coverr",
       "read": "2026-11-23",
-      "quote": "Everything Coverr publishes is free for commercial and personal projects."
+      "quote": "Everything Coverr publishes is free for commercial and personal projects.",
+      "also": [
+        "Premium needs a plan.",
+        "Sponsored content is separate.",
+        "Logos and trademarks in the footage aren't licensed to you."
+      ]
     },
     {
       "url": "https://github.com/viewgum/business-video-skills",

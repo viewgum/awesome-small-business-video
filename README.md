@@ -30,7 +30,7 @@ a business may do.
 
 - [TikTok Commercial Music Library](https://ads.tiktok.com/business/creativecenter/music/pc/en) - TikTok's pre-cleared music for organic content and ad creation, searchable by theme, genre, mood and length.
 - [YouTube Audio Library](https://support.google.com/youtube/answer/3376882) - YouTube's help for the music and sound effects in YouTube Studio's Audio Library, the only ones it says it knows to be copyright-safe; Creative Commons tracks must be credited in the video's description.
-- [Incompetech music licenses](https://incompetech.com/music/royalty-free/licenses/) - Music free under Creative Commons with credit, or under a Standard License for uses where credit is not wanted or impossible, such as radio and TV ads.
+- [Incompetech music licenses](https://incompetech.com/music/royalty-free/licenses/) - Music free under Creative Commons with credit, or under a paid Standard License for uses where credit is not wanted or impossible, such as radio and TV ads.
 - [Free Music Archive FAQ](https://freemusicarchive.org/faq) - How to find each track's Creative Commons license and what NonCommercial means before using a track in a business video.
 
 ## Ads, endorsements, reviews and AI labels
@@ -45,14 +45,14 @@ a business may do.
 ## Free editing apps
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Blackmagic Design's editor, with a free version and a paid Studio version.
-- [Edits by Instagram](https://edits.com/) - Instagram's video creation app, with captions, a teleprompter, templates and audio tools.
+- [Edits by Instagram](https://edits.instagram.com/) - Instagram's video creation app for making videos on a phone, with captions, a teleprompter, templates and audio tools.
 - [CapCut Terms of Service](https://www.capcut.com/clause/terms-of-service) - CapCut's terms, which say commercial use of its templates, clips, fonts and effects depends on the product and its Materials License Agreement, and that no rights to its music are licensed except as stated.
 - [Kdenlive](https://kdenlive.org/) - Free and open source video editor.
 - [Shotcut](https://shotcut.org/) - Free, open source video editor for Windows, Mac and Linux.
 
 ## Free footage
 
-- [Coverr license](https://coverr.co/license) - Coverr's terms for its free videos, images and music, which it says are free for commercial and personal projects.
+- [Coverr license](https://coverr.co/license) - Coverr's terms for its free videos, images and music, which it says are free for commercial and personal projects; premium items need a paid plan, sponsored items follow their own licenses, and logos in the footage are not licensed.
 
 ## Related
 
@@ -66,4 +66,4 @@ Suggestions welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) first. Entries are 
 
 ## License
 
-[CC BY 4.0](LICENSE). Maintained by [ViewGum](https://viewgum.com), which also makes [short videos for small businesses](https://viewgum.com/for).
+[CC BY 4.0](LICENSE), except the quotes in sources.json, which belong to their publishers and are not covered by it. Maintained by [ViewGum](https://viewgum.com), which also makes [short videos for small businesses](https://viewgum.com/for).

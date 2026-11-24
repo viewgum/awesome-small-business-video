@@ -3,8 +3,8 @@
 > Official, free resources for small businesses making short vertical videos for TikTok, Instagram Reels, YouTube Shorts and
 > Facebook Reels: each app's help for businesses, music a business may use (TikTok Commercial Music Library, YouTube Audio
 > Library, Creative Commons libraries), the rules for ads, endorsements, fake reviews and AI labels (FTC, TikTok, YouTube, UK
-> ASA), and free editing apps and footage with their commercial-use terms. Each entry is the publisher's own page, with a quote
-> and the day it was read in sources.json. CC BY 4.0.
+> ASA), and free editing apps and footage (with CapCut's and Coverr's terms for commercial use). Each entry is the publisher's own page, with a quote
+> and the day it was read in sources.json. CC BY 4.0, except the quotes, which belong to their publishers.
 
 - [README](https://github.com/viewgum/awesome-small-business-video/blob/main/README.md): the list
 - [sources.json](https://github.com/viewgum/awesome-small-business-video/blob/main/sources.json): publisher, date read and quote for each entry
