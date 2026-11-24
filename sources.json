@@ -1,0 +1,146 @@
+{
+  "about": "Each entry in README.md, the publisher, the day it was read, and words copied from the page that support its description. ftc.gov refuses scripted requests: that page was read in a browser.",
+  "entries": [
+    {
+      "url": "https://www.tiktok.com/business/en-US",
+      "publisher": "TikTok",
+      "read": "2026-11-23",
+      "quote": "Plan, manage and analyze your TikTok marketing activities in one place"
+    },
+    {
+      "url": "https://www.tiktok.com/business/en-US/blog",
+      "publisher": "TikTok",
+      "read": "2026-11-23",
+      "quote": "TikTok for Business Blog | Announcements, Guides & Marketing Research"
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/10059070",
+      "publisher": "Google (YouTube Help)",
+      "read": "2026-11-23",
+      "quote": "You can upload vertical videos saved to your computer or smartphone as Shorts."
+    },
+    {
+      "url": "https://about.fb.com/news/2025/06/making-it-easier-create-videos-facebook/",
+      "publisher": "Meta",
+      "read": "2026-11-23",
+      "quote": "In the coming months, all videos on Facebook will be shared as reels, eliminating the need to choose between uploading a video or reel."
+    },
+    {
+      "url": "https://support.google.com/business/answer/6103862",
+      "publisher": "Google (Business Profile Help)",
+      "read": "2026-11-23",
+      "quote": "Your photos and videos show up on Google only after you verify your Business Profile"
+    },
+    {
+      "url": "https://ads.tiktok.com/business/creativecenter/music/pc/en",
+      "publisher": "TikTok (Creative Center)",
+      "read": "2026-11-23",
+      "quote": "Pre-cleared music for organic content and ad creation."
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/3376882",
+      "publisher": "Google (YouTube Help)",
+      "read": "2026-11-23",
+      "quote": "Only music and sound effects from the Audio Library are known to YouTube to be copyright-safe."
+    },
+    {
+      "url": "https://incompetech.com/music/royalty-free/licenses/",
+      "publisher": "Incompetech",
+      "read": "2026-11-23",
+      "quote": "For projects where attribution is not wanted or is impossible (radio/TV ads, corporate presentations, on-hold music, etc.)."
+    },
+    {
+      "url": "https://freemusicarchive.org/faq",
+      "publisher": "Free Music Archive",
+      "read": "2026-11-23",
+      "quote": "What exactly does \"NonCommercial\" mean?"
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+      "publisher": "US Federal Trade Commission",
+      "read": "2026-11-20",
+      "note": "Read in a browser on 2026-11-20; the site refuses scripted requests, so the link check skips it."
+    },
+    {
+      "url": "https://www.law.cornell.edu/cfr/text/16/465.2",
+      "publisher": "Legal Information Institute (text of an FTC rule)",
+      "read": "2026-11-23",
+      "quote": "It is an unfair or deceptive act or practice and a violation of this part for a business to write, create, or sell a consumer review"
+    },
+    {
+      "url": "https://www.tiktok.com/legal/page/global/bc-policy/en",
+      "publisher": "TikTok",
+      "read": "2026-11-23",
+      "quote": "When posting branded content, you must enable the commercial content disclosure toggle."
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/154235",
+      "publisher": "Google (YouTube Help)",
+      "read": "2026-11-23",
+      "quote": "Selecting the paid promotion button adds a disclosure label that appears at the beginning of your video."
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/14328491",
+      "publisher": "Google (YouTube Help)",
+      "read": "2026-11-23",
+      "quote": "We require creators to disclose AI-generated or altered content that seems realistic."
+    },
+    {
+      "url": "https://www.asa.org.uk/resource/influencers-guide.html",
+      "publisher": "ASA and CAP (UK)",
+      "read": "2026-11-23",
+      "quote": "Affiliate marketing disclosure requirements."
+    },
+    {
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "publisher": "Blackmagic Design",
+      "read": "2026-11-23",
+      "quote": "That’s why there’s a free version of DaVinci Resolve"
+    },
+    {
+      "url": "https://edits.com/",
+      "publisher": "Instagram",
+      "read": "2026-11-23",
+      "quote": "Edits by Instagram: A Video Creation App for Easy Editing & Sharing"
+    },
+    {
+      "url": "https://www.capcut.com/clause/terms-of-service",
+      "publisher": "CapCut",
+      "read": "2026-11-23",
+      "quote": "The terms governing whether Company Content can be used for commercial or non-commercial purposes may vary depending on the CapCut product you are using"
+    },
+    {
+      "url": "https://kdenlive.org/",
+      "publisher": "KDE (Kdenlive)",
+      "read": "2026-11-23",
+      "quote": "Kdenlive - Free and Open Source Video Editor"
+    },
+    {
+      "url": "https://shotcut.org/",
+      "publisher": "Shotcut",
+      "read": "2026-11-23",
+      "quote": "Shotcut is a free, open source, cross-platform video editor for Windows, Mac and Linux."
+    },
+    {
+      "url": "https://coverr.co/license",
+      "publisher": "Coverr",
+      "read": "2026-11-23",
+      "quote": "Everything Coverr publishes is free for commercial and personal projects."
+    },
+    {
+      "url": "https://github.com/viewgum/business-video-skills",
+      "publisher": "ViewGum",
+      "read": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/viewgum/short-form-video-specs",
+      "publisher": "ViewGum",
+      "read": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/viewgum/awesome-short-form-video",
+      "publisher": "ViewGum",
+      "read": "2026-11-23"
+    }
+  ]
+}
